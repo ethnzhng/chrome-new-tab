@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Blank New Tab",
+  "name": "Dracula Blank New Tab",
   "version": "1.0",
-  "description": "Replaces the New Tab page with a blank page.",
+  "description": "Replaces the New Tab page with a blank page in the Dracula background color.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
